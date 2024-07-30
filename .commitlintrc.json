@@ -15,6 +15,7 @@
         "refactor",
         "revert",
         "style",
+        "test",
         "wip"
       ]
     ]
